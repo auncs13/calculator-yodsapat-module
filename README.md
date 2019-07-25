@@ -18,3 +18,12 @@
 const calculator = require('calculator-yodsapat')
 
 ```
+
+### วิธีการบวก
+
+สำหรับการบวก ให้ใช้ function `plus()`
+
+```js
+calculator.plus(1,2) //3
+
+```
