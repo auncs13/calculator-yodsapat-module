@@ -31,3 +31,6 @@ calculator.plus(1,2) //3
 ```
 
 ![top](https://user-images.githubusercontent.com/53287115/61846458-65278f00-aed1-11e9-8760-b09af61eefeb.png)
+
+
+[support](./support.md) 
